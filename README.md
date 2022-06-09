@@ -2,4 +2,4 @@
 
 The Dotter website
 
-Located <a href="http://dotter.cubicinc.ga">Here</a>
+Located <a href="http://typewriter.cubicinc.ga">Here</a>
